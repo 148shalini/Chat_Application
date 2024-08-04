@@ -31,49 +31,49 @@ git clone https://github.com/148shalini/Chat_Application.git
 
 1.Move to the Frontend Directory
 
-cd my-frontend
+-   cd my-frontend
 
 2.Install Dependencies
 
-npm install
+-   npm install
 
 3.Start the Development Server
 
-npm start
+-   npm start
 
-Server run at http://localhost:3000.
+-   Server run at http://localhost:3000.
 
 BACK-END
 
 1.Move to the Backend Directory
 
-cd chat_backend
+-   cd chat_backend
 
-cd interest_app_backend
+-   cd interest_app_backend
 
 2 Create and Activate a Virtual Environment
 
-python -m venv venv
+-   python -m venv venv
 
-venv\Scripts\activate
+-   venv\Scripts\activate
 
 3.Install Dependencies
 
-pip install -r requirements.txt
+-   pip install -r requirements.txt
 
 4.Apply Migrations
 
-python manage.py makemigrations
+-   python manage.py makemigrations
 
-python manage.py migrate
+-   python manage.py migrate
 
 5.Run Backend Server 
 
-daphne -b 0.0.0.0 -p 8000 interest_app_backend.asgi:application
+-   daphne -b 0.0.0.0 -p 8000 interest_app_backend.asgi:application
 
- Running the Application
+ 6.Running the Application
 
- Account Registration and Login
+ -   Account Registration and Login
 
 **Register**: Sign up for a new account using your mobile number and password.
 **Login**: Access your account with the registered mobile number and password.
