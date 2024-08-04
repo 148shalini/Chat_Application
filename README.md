@@ -1,25 +1,25 @@
-#CHAT APPLICATION (BY React.Js and Django)
-#Overview:
+####CHAT APPLICATION (BY React.Js and Django)
+####Overview:
 
 This is a simple chat application with a frontend built using React.js and a backend powered by Django. The application allows users to send and receive messages in real-time.
 
-#Prerequisites and Dependencies
-Backend
+####Prerequisites and Dependencies
+####Backend
 Python 3.8+
 Django 4.2
 Django Channels
 daphne
 SQLITE (or any other database supported by Django)
-Frontend
+####Frontend
 Node.js 14.x+
 React 18.x
 React Router
 WebSocket library (e.g., stompjs or native WebSocket API)
 
-#Installation
+####Installation
 FRONT-END
 
-# Clone the Repo FRONT-END
+####Clone the Repo FRONT-END
 git clone https://github.com/148shalini/Chat_Application.git
 1.Move to the Frontend Directory
 cd my-frontend
