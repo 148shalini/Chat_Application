@@ -95,7 +95,7 @@ Pending Features
 - Comprehensive user profile management, including profile updates and profile picture uploads.
 - Improved WebSocket connection handling and reconnection processes.
 
- Future Enhancements
+ ####Future Enhancements
 
 - Adding features such as notifications for new messages.
 - Refining the UI/UX based on user feedback.
