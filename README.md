@@ -1,5 +1,6 @@
 #CHAT APPLICATION (BY React.Js and Django)
 #Overview:
+
 This is a simple chat application with a frontend built using React.js and a backend powered by Django. The application allows users to send and receive messages in real-time.
 
 #Prerequisites and Dependencies
